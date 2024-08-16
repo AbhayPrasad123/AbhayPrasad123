@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Prasad</h1>
 <h3 align="center">A passionate FullStack Web Developer / Data Analyst from India</h3>
-![Header](./your-header-image-name.png)
+<!-- ![Header](./your-header-image-name.png) -->
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/HECyRSXt6HSw1yz0qC2X08r2Wmk3pHb-6MvaAZlIdyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayprasad123&label=Profile%20views&color=0e75b6&style=flat" alt="abhayprasad123" /> </p>
